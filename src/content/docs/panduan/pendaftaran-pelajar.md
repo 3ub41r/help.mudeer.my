@@ -4,19 +4,25 @@ sidebar:
     order: 3
 ---
 
-Terdapat 3 cara untuk mendaftarkan pelajar baharu dalam MUDEER (link each points to subtopic):
+Terdapat 3 cara untuk mendaftarkan pelajar baharu dalam MUDEER:
 
-1. Borang pendaftaran online - pelajar daftar sendiri
-2. Pendaftaran manual - admin daftarkan pelajar
-3. Import pelajar secara pukal - muat naik data pelajar dalam bentuk Excel
+1. **Borang pendaftaran online** - pelajar daftar sendiri
+2. **Pendaftaran manual** - admin daftarkan pelajar
+3. **[Import pelajar secara pukal](/panduan/import-data-pelajar)** - muat naik data pelajar dalam bentuk Excel
 
-**Borang Pendaftaran Online**
+## Borang Pendaftaran Online
 
-Setiap kelas yang anda buka akan ada link kepada borang pendaftaran. Link ini boleh dikongsikan dengan bakal pelajar untuk mereka mendaftar sendiri.
+Setiap kelas yang anda buka akan ada link kepada borang pendaftaran dan boleh dikongsikan dengan bakal pelajar untuk mereka mendaftar ke kelas tersebut sendiri.
 
 ![](Pendaftaran%20Pelajar/image10.png)
 
-Link tersebut akan memaparkan butiran tentang Course. Untuk meneruskan pendaftaran, pelajar boleh klik **Register** kemudian masukkan nombor telefon.
+Anda boleh klik **More → Copy Link** dan share link tersebut dengan pelajar.
+
+![Copy Link](pendaftaran-pelajar/image.png)
+
+Link tersebut akan memaparkan butiran tentang kursus.
+
+Untuk meneruskan pendaftaran, pelajar boleh klik **Register** kemudian masukkan nombor telefon.
 
 ![](Pendaftaran%20Pelajar/image15.png)
 
@@ -34,9 +40,11 @@ Setelah mengisi borang, mereka boleh tekan **Register**.
 
 ![](Pendaftaran%20Pelajar/image13.png)
 
-**Caj Yuran Pertama Selepas Pendaftaran**
+### Caj Yuran Pertama Selepas Pendaftaran
 
-Anda boleh tetapkan supaya invois pertama dikeluarkan secara automatik sebaik sahaja pelajar mendaftar. Pergi ke Course berkenaan dan tandakan **Charge on registration**.
+Anda boleh tetapkan supaya invois pertama dikeluarkan secara automatik sebaik sahaja pelajar mendaftar.
+
+Pergi ke kursus berkenaan dan tandakan **Charge on registration**.
 
 ![](Pendaftaran%20Pelajar/image8.png)
 
@@ -44,31 +52,37 @@ Invois untuk bulan semasa akan dikeluarkan sebaik sahaja pelajar melengkapkan pe
 
 ![](Pendaftaran%20Pelajar/image7.png)
 
-Penting: Setiap pelajar yang mendaftar menggunakan borang pendaftaran online perlu disahkan.
+### Pengesahan Pendaftaran
 
-Senarai pelajar baharu yang mengisi borang tetapi belum disahkan boleh dicapai melalui menu **Students → New Students**.
+Setiap pelajar yang mendaftar menggunakan borang pendaftaran online perlu disahkan terlebih dahulu.
+
+Senarai pelajar yang belum disahkan boleh dicapai di **Students → New Students**.
 
 ![](Pendaftaran%20Pelajar/image14.png)
 
-Tandakan nama pelajar dan klik pada butang biru, **Approve** untuk mengesahkan pendaftaran pelajar. Anda boleh juga klik **Approve All** untuk mengesahkan kesemua pelajar baharu sekali gus.
+Tandakan nama pelajar dan klik pada butang biru, **Approve** untuk mengesahkan pendaftaran pelajar. Anda boleh juga klik **Approve All** (hijau) untuk mengesahkan kesemua sekali gus.
 
-**Pendaftaran Manual**
+## Pendaftaran Manual
 
-Anda, sebagai admin, juga boleh mendaftar pelajar ke dalam MUDEER.
+Sebagai admin, anda sendiri boleh mendaftarkan pelajar ke dalam MUDEER.
 
-**Pelajar Individu**
+### Pelajar Individu
 
-Untuk pelajar individu (**Individual Course**), anda boleh klik pada Course berkenaan, pergi ke tab **Students** dan klik **New Student**.
+Untuk mendaftarkan pelajar ke kursus individu, anda boleh:
+
+1. Klik pada kursus berkenaan
+2. Pergi ke tab **Students** dan 
+3. Klik **New Student**
 
 ![](Pendaftaran%20Pelajar/image17.png)
 
-Bagi pelajar yang pernah mendaftar sebelum ini, anda boleh membuat carian menggunakan nama, nombor telefon, emel atau nombor kad pengenalan di ruangan **Search Customers**.
+Jika pelajar tersebut pernah mendaftar sebelum ini, anda boleh membuat carian menggunakan nama, nombor telefon, emel atau nombor kad pengenalan di ruangan **Search Customers**.
 
 ![](Pendaftaran%20Pelajar/image3.png)
 
-Klik pada nama pelanggan (atau pelajar) untuk mendaftarkan pelajar ke Course tersebut.
+Klik pada nama pelanggan (atau pelajar) untuk mendaftarkan pelajar ke kursus tersebut.
 
-Jika perlu, anda boleh kemaskini:
+Anda boleh mengemaskini:
 
 1. Nama pelajar (jika berbeza) di ruangan **Name** dan
 2. Yuran bulanan di ruangan **Monthly Fee**.
@@ -79,10 +93,17 @@ Contohnya, nama ibu yang mendaftarkan anak-anaknya adalah Faridah. Untuk mendaft
 
 ![](Pendaftaran%20Pelajar/image11.png)
 
-**Tips**: Anda boleh gunakan ruangan nama untuk membezakan subjek bagi pelajar yang mengambil pakej yang sama. Contoh:
+:::tip
+
+Anda boleh gunakan ruangan nama untuk membezakan subjek bagi pelajar yang mengambil pakej yang sama.
+
+Contoh:
 
 - Pakej Super Coaching: Faridah Binti Abdul Latip (Matematik).
 - Pakej Super Coaching: Faridah Binti Abdul Latip (Bahasa Inggeris).
+
+:::
+
 
 ![](Pendaftaran%20Pelajar/image1.png)
 
@@ -92,16 +113,16 @@ Jika pelajar berkenaan memang pelajar baharu, tekan **New Student**.
 
 Masukkan maklumat pelajar:
 
-1. Student Name - nama pelajar
-2. IC Number - nombor kad pengenalan pelajar (jika tiada, boleh masukkan nombor telefon)
-3. Phone - nombor telefon
-4. Email (tidak wajib)
-5. Instructions (tidak wajib) - permintaan customer
-6. Address (tidak wajib)
+1. **Student Name** - nama pelajar
+2. **IC Number** - nombor kad pengenalan pelajar (jika tiada, boleh masukkan nombor telefon)
+3. **Phone** - nombor telefon
+4. **Email** (tidak wajib)
+5. **Instructions** (tidak wajib) - permintaan customer, contoh: "Guru perempuan sahaja."
+6. **Address** (tidak wajib)
 
-Selepas anda berjaya mendaftar pelajar, anda boleh tetapkan tutor yang akan mengajar (link).
+Selepas anda berjaya mendaftar pelajar, anda boleh [tetapkan tutor yang akan mengajar](/panduan/penetapan-tutor/).
 
-**Kelas Berkumpulan**
+### Kelas Berkumpulan
 
 Untuk mendaftarkan pelajar ke dalam kelas berkumpulan, pergi ke **Courses**, kemudian klik kelas berkenaan.
 
@@ -111,24 +132,8 @@ Pergi ke tab **Students** dan klik **New Student**.
 
 ![](Pendaftaran%20Pelajar/image2.png)
 
-Proses selanjutnya sama dengan kelas individu (link).
+Proses selanjutnya sama dengan [kelas individu](#pelajar-individu).
 
-Selepas itu, anda akan ditanya sama ada ingin mengeluarkan terus invois pertama. Jika tidak, tekan **Skip**.
+Selepas itu, anda akan ditanya sama ada ingin mengeluarkan terus invois pertama. Jika tidak, tekan sahaja **Skip**.
 
 ![](Pendaftaran%20Pelajar/image5.png)
-
-Kemudian, anda akan diberi pilihan untuk mengenakan yuran atau tidak.
-
-Untuk mengenakan yuran, anda boleh masukkan kadar yuran pelajar tersebut pada ruangan ***“Fee”*** dan klik pada ***“Charge”***. Jika tidak, klik pada ***“Skip”***.
-
-![](Pendaftaran%20Pelajar/image6.png)
-
-Jika anda klik pada butang ***“Charge”***, pelajar tersebut akan dikenakan yuran dan anda akan dibawa ke invois berkenaan.
-
-Notifikasi berkenaan invois tersebut akan dihantar kepada pelajar secara automatik. Walaubagaimanapun, anda boleh juga hantar invois tersebut melalui WhatsApp dengan menekan butang ***“Follow up”***.
-
-![](Pendaftaran%20Pelajar/image16.png)
-
-Perbezaan antara pendaftaran menggunakan borang pendaftaran dan pendaftaran manual ialah pendaftaran yang dibuat melalui borang pendaftaran perlu disahkan oleh admin sebelum nama pelajar tersenarai dalam kelas.
-
-[Import Data Pelajar](Import%20Data%20Pelajar%2037467de5544a807db16dd3146b9933b5.md)
