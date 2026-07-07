@@ -13,6 +13,10 @@ export default defineConfig({
 					label: 'Panduan',
 					items: [{ autogenerate: { directory: 'panduan' } }],
 				},
+				{
+					label: 'Panduan Lain',
+					items: [{ autogenerate: { directory: 'panduan-lain' } }],
+				},
 				// {
 				// 	label: 'Guides',
 				// 	items: [

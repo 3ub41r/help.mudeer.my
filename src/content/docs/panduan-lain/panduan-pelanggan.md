@@ -1,0 +1,106 @@
+---
+title: Panduan Pelanggan
+---
+
+Panduan ini menerangkan cara untuk anda:
+
+1. Bayar yuran
+2. Semak laporan tutor dan
+3. Semak sejarah pembayaran
+
+## Pembayaran Yuran
+
+Setiap bulan anda akan terima email dengan link kepada invois yuran.
+
+:::note
+
+Jika anda tidak menerima email sila terus ke [portal pelanggan](#portal-pelanggan).
+
+:::
+
+![](Panduan%20Pelanggan/image4.png)
+
+Anda boleh klik **VIEW INVOICE** dalam email tersebut untuk melihat invois berkenaan. Di sini anda boleh lihat amaun yang perlu dibayar.
+
+Jumlah keseluruhan tunggakan anda akan terpapar di bahagian bawah invois (tulisan kuning).
+
+![](Panduan%20Pelanggan/image1.png)
+
+Jika ada butang **PAY NOW**, anda boleh tekan untuk terus membuat pembayaran. 
+
+Anda akan dibawa ke laman bank untuk langkah seterusnya. Resit akan dikeluarkan sebaik sahaja pembayaran anda berjaya.
+
+Jika tiada butang **PAY NOW**, anda boleh memuat naik bukti pembayaran dengan menekan butang **Upload Receipt** di bahagian bawah invois.
+
+![](Panduan%20Pelanggan/image3.png)
+
+
+:::note
+
+Sistem membenarkan _file_ PDF atau gambar sahaja.
+
+:::
+
+Klik **Browse**, pilih _file_, masukkan amaun pembayaran dan tekan **Save**.
+
+![](Panduan%20Pelanggan/image8.png)
+
+Bukti pembayaran anda telah berjaya dimuat naik. Admin akan semak dan sahkan pembayaran anda. Resit akan dihantar sebaik sahaja admin mengesahkan pembayaran anda.
+
+![](Panduan%20Pelanggan/image11.png)
+
+## Laporan Tutor
+
+Dalam invois ni juga, anda boleh melilihathat laporan yang tutor masukkan dengan menekan **Teacher's Report** di bahagian bawah invois.
+
+![image.png](Panduan%20Pelanggan/image.png)
+
+Di sini anda boleh lihat bila sesi kelas dijalankan dan juga ulasan tutor untuk sesi tersebut.
+
+![](Panduan%20Pelanggan/image9.png)
+
+## Sejarah Pembayaran
+
+Untuk melihat sejarah pembayaran anda, klik pada **Payment History** di bahagian bawah invois.
+
+![image.png](Panduan%20Pelanggan/image%201.png)
+
+Di sini terdapat dia _column_:
+1. Amount dan 
+2. Balance - tunggakan semasa.
+
+**Amount** yang berwarna hitam adalah nilai invois. Anda boleh klik link pada **Description** untuk melihat invois berkenaan.
+
+![](Panduan%20Pelanggan/image7.png)
+
+**Amount** yang berwarna **hijau** pula adalah amaun pembayaran. Anda boleh klik link pada **Description** untuk melihat resit pembayaran tersebut.
+
+![](Panduan%20Pelanggan/image6.png)
+
+## Rate and Review Tutor
+
+Dalam resit ini juga anda boleh _rate_ dan _review_ tutor yang mengajar. Klik pada nama tutor di bahagian hijau di atas resit dan masukkan _rating_ serta komen anda (jika ada).
+
+![](Panduan%20Pelanggan/image2.png)
+
+## Portal Pelanggan
+
+Jika anda tidak menerima emel, anda boleh log masuk ke portal pelanggan untuk menyemak dan membuat pembayaran yuran.
+
+Pergi ke [app.mudeer.my/customer](http://app.mudeer.my/customer).
+
+Masukkan nombor telefon anda di ruangan **Phone Number** dan tekan **Send OTP**. Anda akan menerima kod 6 angka melalui SMS.
+
+Masukkan kod 6 angka tersebut ke dalam ruangan **One-Time Password** dan tekan **Log In**.
+
+![](Panduan%20Pelanggan/image5.png)
+
+Anda akan sampai ke dashboard.
+
+Di sini anda boleh lihat semua pendaftaran kelas anda. Klik pada pendaftaran untuk melihat laporan tutor berkenaan.
+
+![](Panduan%20Pelanggan/image10.png)
+
+Anda boleh klik **Home** di bahagian atas kiri untuk kembali ke dashboard.
+
+![image.png](Panduan%20Pelanggan/image%202.png)

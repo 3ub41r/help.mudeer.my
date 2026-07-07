@@ -4,7 +4,7 @@ sidebar:
     order: 5
 ---
 
-Anda boleh import data pelajar sedia ada ke dalam MUDEER dengan memuat naik file Excel dalam format yang ditetapkan.
+Anda boleh import data pelajar sedia ada ke dalam MUDEER dengan memuat naik _file_ Excel dalam format yang ditetapkan.
 
 Contoh format Excel boleh dimuat turun melalui menu **Students → Import → Upload**.
 
@@ -30,7 +30,7 @@ Berikut adalah medan yang ada dalam template tersebut:
 12. **teacher_ic_number** - No. Kad Pengenalan tutor. Akan digunakan sebagai katalaluan untuk tutor log masuk.
 13. **teacher_email** - Alamat emel tutor. Untuk log masuk dan penghantaran notifikasi.
 
-Bila file Excel siap diisi, boleh muat naik di paparan **Import Students.** Tekan **Browse** dan pilih file Excel tersebut.
+Bila file Excel siap diisi, pada paparan **Import Students**, tekan **Browse** dan pilih file Excel tersebut.
 
 ![image.png](Import%20Data%20Pelajar/image.png)
 
@@ -47,5 +47,3 @@ Klik **Continue**.
 Anda akan nampak senarai pelajar yang terkandung dalam file Excel yang dimuat naik. Tekan **Import** untuk mendaftarkan semua pelajar.
 
 ![image.png](Import%20Data%20Pelajar/image%203.png)
-
-[Panduan Tutor](Panduan%20Tutor%2037467de5544a80fa8f32cf595816e80d.md)
