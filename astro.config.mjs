@@ -6,9 +6,17 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'MUDEER Help',
+			title: 'MUDEER',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
+				{
+					label: 'Mula Sini',
+					slug: 'mula-sini',
+				},
+				{
+					label: 'Pemula',
+					items: [{ autogenerate: { directory: 'pemula' } }],
+				},
 				{
 					label: 'Panduan',
 					items: [{ autogenerate: { directory: 'panduan' } }],
