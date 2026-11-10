@@ -11,6 +11,7 @@
     "generate-types": "wrangler types"
   },
   "dependencies": {
+    "@astro-community/astro-embed-youtube": "^0.5.10",
     "@astrojs/cloudflare": "^14.4.6",
     "@astrojs/starlight": "^0.42.10",
     "astro": "^7.4.7",
